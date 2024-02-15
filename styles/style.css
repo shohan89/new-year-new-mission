@@ -206,8 +206,6 @@ header {
   width: 140px;
   height: 140px;
 }
-.holiday-sale-container {
-}
 .holiday-sale-content {
   text-align: center;
 }
@@ -236,4 +234,8 @@ header {
 }
 .holiday-sale-title span {
   color: #f00;
+}
+.holiday-sale-container img {
+  width: 100%;
+  margin-bottom: 120px;
 }
