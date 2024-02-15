@@ -18,6 +18,17 @@ main {
   font-weight: 500;
   line-height: normal;
 }
+.btn-primary {
+  background-color: #F00;
+  padding: 16px 32px;
+  border-radius: 8px;
+  border: none;
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
 /* common styles */
 header {
   background-image: url("../resources/Banner\ Image.png");
@@ -116,12 +127,4 @@ header {
   line-height: 30px; /* 166.667% */
   margin-bottom: 48px;
 }
-.btn-primary {
-  background-color: #070211;
-  border: none;
-  color: #fff;
-  font-family: Inter;
-  font-size: 20px;
-  font-weight: 700;
-  cursor: pointer;
-}
+
